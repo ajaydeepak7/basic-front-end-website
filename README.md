@@ -1,2 +1,2 @@
-# coursera1
+# http://coursera1
  assignment 
